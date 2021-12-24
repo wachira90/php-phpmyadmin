@@ -1,2 +1,0 @@
-# php-phpmyadmin
-php-phpmyadmin
